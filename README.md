@@ -1,4 +1,4 @@
-# ERC20-token-bank
+# ERC20-dentralized-bank
 A cross-chain Defi Dapp created based on ERC20 tokens of any evm compatible chain to provide bank services on decentralized base.
 
 Roadmap
